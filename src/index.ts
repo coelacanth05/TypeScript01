@@ -5,7 +5,7 @@
 // primitiveSamle();
 
 import { logMessage } from "./function/basic";
-import {isUserSignedIn} from "./function/parmeters"
+// import {isUserSignedIn} from "./function/parmeters"
 
 logMessage("hello!TypeScript");
-isUserSignedIn(userId:'ABC',username:'k');
+// isUserSignedIn(userId:'ABC',username:'k');
