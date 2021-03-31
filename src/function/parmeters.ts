@@ -1,5 +1,5 @@
 export const isUserSignedIn = (userId: string, username?: string): boolean => {
-  if (userId === 'ABC') {
+  if (userId === "ABC") {
     console.log("Function parmeters sample 1: User is signed in!", username);
     return true;
   } else {

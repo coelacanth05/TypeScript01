@@ -4,8 +4,14 @@
 // notExistSample();
 // primitiveSamle();
 
-import { logMessage } from "./function/basic";
-// import {isUserSignedIn} from "./function/parmeters"
+// import { logMessage } from "./function/basic";
+// // import {isUserSignedIn} from "./function/parmeters"
 
-logMessage("hello!TypeScript");
+// logMessage("hello!TypeScript");
 // isUserSignedIn(userId:'ABC',username:'k');
+
+// import objectSample from './object/object'
+// objectSample()
+
+import typeAliasSample from "./object/alias";
+typeAliasSample();
