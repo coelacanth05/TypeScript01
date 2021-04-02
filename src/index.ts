@@ -16,5 +16,10 @@
 // import typeAliasSample from "./object/alias";
 // typeAliasSample();
 
-import arraySamle from "./array/array";
-arraySamle();
+// import arraySamle from "./array/array";
+// import tupleSample from "./array/tuple";
+// tupleSample()
+// arraySamle();
+
+import genericsBasicSample from "./generics/basic";
+genericsBasicSample()
