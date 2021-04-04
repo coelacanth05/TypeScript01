@@ -21,5 +21,5 @@
 // tupleSample()
 // arraySamle();
 
-import genericsBasicSample from "./generics/basic";
-genericsBasicSample()
+// import genericsBasicSample from "./generics/basic";
+// genericsBasicSample()
