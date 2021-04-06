@@ -52,8 +52,8 @@ type BookType = {
 interface Handbppk extends BookType {
   theme:string
 }
-const cotrip: Handbook = {
-  page:120,
-  title:'ことリップ',
-  thme:'予行'
-}
+// const cotrip: Handbook = {
+//   page:120,
+//   title:'ことリップ',
+//   thme:'予行'
+// }
